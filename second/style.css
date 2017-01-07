@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+}
+
+.blueColumn {
+  background-color: blue;
+  height: 600px;
+  width: 200px;
+  flex: middle;
+}
+
+.cyanColumn {
+  background-color: cyan;
+  height: 600px;
+  width: 200px;
+  flex; middle;
+}
+
+.greenColumn {
+  background-color: green;
+  height: 400px;
+  width: 200px;
+  flex: right;
+  flex: top;
+}
+
+.image {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  flex: bottom;
+  text-align: center;
+  color: white;
+  vertical-align: center;
+}

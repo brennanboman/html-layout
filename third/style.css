@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+.container {
+  flex-direction: column;
+}
+
+.container2 {
+  display: flex;
+  background-color: grey;
+  height: 100px;
+  width: 100%;
+}
+
+.blueBox {
+  background-color: blue;
+  height: 75px;
+  width: 75px;
+  flex: top;
+  margin: 10px;
+}
+
+p {
+  font-family: monospace;
+}
+
+
+.whiteBar {
+  background-color: white;
+  height: 200px;
+  width: 100%;
+}
+
+.blueBar {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
+
+.cyanBar {
+  background-color: cyan;
+  height: 100px;
+  width: 100%;
+}
+
+.oliveBar {
+  background-color: olive;
+  height: 100px;
+  width: 100%;
+}
+
+.yellowBar {
+  background-color: yellow;
+  height: 100px;
+  width: 100%;
+}

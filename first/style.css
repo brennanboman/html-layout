@@ -1,0 +1,29 @@
+header {
+  background-color: #515151;
+  padding: 100px;
+}
+
+body {
+  margin: 0;
+  background-color: #e4e4e4
+}
+.left-bar {
+  background-color: #dadada;
+  width: 150px;
+  height: 600px;
+  float: left;
+
+}
+.right-bar {
+  background-color: #dadada;
+  width: 150px;
+  height: 600px;
+  float: right;
+}
+
+footer {
+  background-color: #2a2a2a;
+  width: 1500px;
+  height: 100px;
+  margin-top: 500px;
+}
